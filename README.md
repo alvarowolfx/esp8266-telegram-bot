@@ -12,4 +12,4 @@
 
 #### Esquemático
 
-![Fotos](https://github.com/alvarowolfx/esp8266-telegram-bot/blob/master/schematic/TelegramArduino.jpg)
+![Fotos](https://github.com/alvarowolfx/esp8266-telegram-bot/blob/master/schematic/TelegramArduino.png)
